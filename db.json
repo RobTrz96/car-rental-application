@@ -1,0 +1,64 @@
+{
+    "cars" : [
+        {
+            "id": 0,
+            "brand": "Ford",
+            "model": "Mustang",
+            "year": 2016,
+            "horsepower": 450,
+            "isAvailable": false,
+            "photo": "/assets/images/mustang.jpg",
+            "transmission": "automatic"
+        },
+        {
+            "id": 1,
+            "brand": "Lamborghini",
+            "model": "Aventador",
+            "year": 2017,
+            "horsepower": 700,
+            "isAvailable": true,
+            "photo": "/assets/images/aventador.jpg",
+            "transmission": "automatic"
+        },
+        {
+            "id": 2,
+            "brand": "Audi",
+            "model": "R8",
+            "year": 2015,
+            "horsepower": 610,
+            "isAvailable": true,
+            "photo": "/assets/images/r8.jpeg",
+            "transmission": "manual"
+        },
+        {
+            "id": 3,
+            "brand": "Bentley",
+            "model": "Continental",
+            "year": 2012,
+            "horsepower": 567,
+            "isAvailable": false,
+            "photo": "/assets/images/continental.jpg",
+            "transmission": "automatic"
+        },
+        {
+            "id": 4,
+            "brand": "Ford",
+            "model": "GT Coupe",
+            "year": 2006,
+            "horsepower": 557,
+            "isAvailable": true,
+            "photo": "/assets/images/gt.jpg",
+            "transmission": "manual"
+        },
+        {
+            "id": 5,
+            "brand": "Ferrari",
+            "model": "458 Italia",
+            "year": 2013,
+            "horsepower": 570,
+            "isAvailable": false,
+            "photo": "/assets/images/458.jpeg",
+            "transmission": "automatic"
+        }
+    ]
+}

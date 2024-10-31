@@ -1,0 +1,6 @@
+<section class="listing">
+    <img class="listing-photo" [src]="carListing.photo" alt="Exterior photo of {{ carListing.brand }}, {{ carListing.model }}, {{ carListing.year }}">
+    <h2 class="listing-heading">{{ carListing.brand }} {{ carListing.model }} {{ carListing.year }}</h2>
+    <p class="listing-additional-info">Horsepower: {{ carListing.horsepower }}HP, transmission: {{ carListing.transmission }}</p>
+    <a [routerLink]="['/details', carListing.id]">Details</a>
+</section>
